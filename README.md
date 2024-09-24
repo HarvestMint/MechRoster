@@ -1,4 +1,4 @@
-# MechRoster
+# :robot: MechRoster
 An application for tracking Battletech miniatures in a collection.
 ## Features
 - Miniatures Database
